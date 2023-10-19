@@ -14,7 +14,7 @@ const App = () => {
 		{
 			id: 1,
 			queston: 'Czym jest desktop?',
-			answer: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga libero soluta ipsa odit, dolore nam!',
+			answer: 'Lorem ipsum dolors sit, amet consectetur adipisicing elit. Fuga libero soluta ipsa odit, dolore nam!',
 			showqueston: false,
 		},
 		{
